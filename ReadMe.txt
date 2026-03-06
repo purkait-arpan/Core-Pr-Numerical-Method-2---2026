@@ -1,0 +1,3 @@
+By using Gauss Jordon method we can Polynomial fit also...
+We fited time vs velocity by eqn
+v(t) = at^2 + bt + c
